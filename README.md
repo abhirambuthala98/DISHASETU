@@ -1,4 +1,4 @@
-https://abhirambuthala98.github.io/DISHASETU/
+Live website link: https://abhirambuthala98.github.io/DISHASETU/
 # DishaSetu — Branch-Aware Career & Skills Roadmaps
 
 DishaSetu is a responsive, static learning-planning prototype built with HTML, CSS and vanilla JavaScript. It can be hosted on GitHub Pages without a build step.
